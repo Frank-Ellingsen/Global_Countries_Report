@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+*.log
+*.plk
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs and other tooling
+.vscode/
+
+# CatBoost
+catboost_info/
+
+# Data files (consider what you want to track)
+Data/*.xlsx
+Data/*.csv
+Data/*.plk
+Data/*.mp4
+
+# Large binary files / generated reports
+*.pdf
+*.mp4
